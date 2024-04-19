@@ -1,5 +1,5 @@
 <template>
-    <header class="bg-sky-600 py-2 px-2">
+    <header class="bg-buttercup-400 py-2 px-2">
         <main class="container mx-auto flex flex-row justify-between">
             <div class="text-white text-lg font-bold">
                 <nuxt-link to="/">Site Name</nuxt-link>

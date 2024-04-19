@@ -1,7 +1,7 @@
 <template>
-    <footer class="bg-gray-200 border-t border-gray-300 p-8 text-center">
+    <footer class="bg-buttercup-400 border-t border-gray-300 p-8 text-center">
         <div class="mb-6 text-lg">
-            <nuxt-link to="/page1">Site Name</nuxt-link>
+            <nuxt-link to="/page1" class="roboto">Site Name</nuxt-link>
         </div>
         <nav class="flex flex-row justify-center gap-4">
             <nuxt-link to="/page1">Page 1</nuxt-link>
