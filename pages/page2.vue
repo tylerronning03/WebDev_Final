@@ -1,3 +1,3 @@
 <template>
-page 2
+Portfolio
 </template>

@@ -1,3 +1,3 @@
 <template>
-page 4
+Contact
 </template>

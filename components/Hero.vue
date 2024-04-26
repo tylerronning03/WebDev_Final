@@ -1,13 +1,13 @@
 <template>
-    <section class="container mx-auto px-8 py-36 text-center sm:px-12">
+    <section class="container mx-auto bg-gren-900 px-8 py-36 text-center sm:px-12">
   <div
     class="absolute left-0 top-64 -z-10 h-72 w-72 rounded-full bg-violet-500 opacity-10 blur-3xl dark:bg-violet-700"
   ></div>
   <div
-    class="absolute right-0 top-24 -z-10 h-72 w-72 rounded-full bg-danger-500 opacity-10 blur-3xl dark:bg-danger-800"
+    class="absolute right-0 top-24 -z-10 h-72 w-72 rounded-full bg-green-900 opacity-10 blur-3xl dark:bg-danger-800"
   ></div>
   <h1
-    class="mb-12 text-5xl font-extrabold leading-tight dark:text-slate-50 sm:text-6xl"
+    class="comfortaa mb-12 text-5xl font-extrabold leading-tight text-black dark:text-slate-500 sm:text-6xl"
   >
     Get funding for your business growth
   </h1>
