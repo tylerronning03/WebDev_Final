@@ -1,5 +1,5 @@
 <template>
-    <header class="comfortaa bg-slate-800 py-2 px-2">
+    <header class="comfortaa bg-slate-800 py-5 px-2">
         <main class="flex flex-row justify-between">
             <div class="text-green-600 text-lg font-bold flex-1">
                 <nuxt-link to="/">Tomorrow Coding</nuxt-link>

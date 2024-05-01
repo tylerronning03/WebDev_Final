@@ -1,3 +1,3 @@
 <template>
-Portfolio
+    <Carousel/>
 </template>
