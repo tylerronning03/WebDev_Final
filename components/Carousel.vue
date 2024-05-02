@@ -1,21 +1,21 @@
 <template>
-    <div class="carousel w-full h-[40vh]">
-  <div id="slide1" class="carousel-item relative w-full">
-    <img src="public/Blueprint.png" class="w-full overflow-hidden" />
+    <div class="carousel w-full ">
+  <div id="slide1" class="carousel-item relative w-full overflow-hidden h-[40vh]">
+    <img src="public/Blueprint.png" class="w-screen h-full object-cover" />
     <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
       <a href="#slide3" class="btn btn-circle">❮</a> 
       <a href="#slide2" class="btn btn-circle">❯</a>
     </div>
   </div> 
-  <div id="slide2" class="carousel-item relative w-full">
-    <img src="https://daisyui.com/images/stock/photo-1609621838510-5ad474b7d25d.jpg" class="w-full " />
+  <div id="slide2" class="carousel-item relative w-screen overflow-hidden h-[40vh]">
+    <img src="public/UE53.png" class="w-screen h-full object-cover" />
     <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
       <a href="#slide1" class="btn btn-circle">❮</a> 
       <a href="#slide3" class="btn btn-circle">❯</a>
     </div>
   </div> 
-  <div id="slide3" class="carousel-item relative w-full">
-    <img src="https://daisyui.com/images/stock/photo-1414694762283-acccc27bca85.jpg" class="w-full " />
+  <div id="slide3" class="carousel-item relative w-screen overflow-hidden h-[40vh]">
+    <img src="public/Code2.png" class="w-screen h-full object-cover" />
     <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
       <a href="#slide2" class="btn btn-circle">❮</a> 
       <a href="#slide1" class="btn btn-circle">❯</a>

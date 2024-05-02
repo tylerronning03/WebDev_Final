@@ -1,5 +1,8 @@
 <template>
     <Carousel/>
+    <projects>
+        
+    </projects>
 </template>
 <script setup>
 useHead ({
