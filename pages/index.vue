@@ -5,7 +5,8 @@
             <div class="comfortaa font-bold py-5 text-lg lg:text-7xl text-center text-emerald-500">
             The Future of Development is Here
             </div>
-            <LanguageDropdown/>
+            <LanguageDropdown class="hidden md:block"/>
+            <LanguageBar class="md:hidden"/>
         </section>
        
         <div class="hero min-h-[80vh] bg-slate-700">
