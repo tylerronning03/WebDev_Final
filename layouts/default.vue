@@ -1,6 +1,6 @@
 <template>
-    <Header/>
-    <MovileHeader class="md:hidden"/>
+    <Header class="hidden md:block"/>
+    <SmHeader class="md:hidden"/>
     <slot/>
     <Footer/>
 </template>

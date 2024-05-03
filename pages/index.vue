@@ -1,24 +1,24 @@
 <template>
     <!-- Intoduction, Brief Bio, links to portfolio -->
     <Introduction>
-        <section class="bg-cover bg-center h-[25vh] bg-[url('public/placeHolder.jpg')] border border-black">
-            <div class="flex comfortaa font-bold py-5 text-7xl justify-around text-green-600">
+        <section class="flex flex-col bg-cover bg-center h-[40vh] bg-[url('public/Tecky.jpeg')] border border-black justify-center items-center">
+            <div class="comfortaa font-bold py-5 text-lg lg:text-7xl text-center text-emerald-500">
             The Future of Development is Here
             </div>
+            <LanguageDropdown/>
         </section>
-    
-        
-        <section class="flex flex-row">
-            <div class="flex px-5 py-2 justify-between">
-                <img src="public/Logo.jpg" class="h-60" alt="PlaceHolder">
+       
+        <div class="hero min-h-[80vh] bg-slate-700">
+            <div class="hero-content flex-col lg:flex-row">
+                <img src="public/Logo.png" class="max-w-[45vh] rounded-lg shadow-2xl" />
+                <div>
+                    <h1 class="text-5xl font-bold comfortaa text-emerald-500">Welcome to Tommorow Coding</h1>
+                    <p class="py-6 text-xl text-slate-200">From Game Design, Backend Development, Databases, and Web Design <br> It's all done here!</p>
+                    <nuxt-link to="/page2"><button class="btn btn-primary hover:bg-white bg-emerald-500 text-xl">Learn More</button></nuxt-link>
+                    
+                </div>
             </div>
-        <!--Insert Short Bio-->
-            <div class="flex-1 border-2 border-black comfortaa text-3xl text-green-600 py-4 px-2">
-            From Game Design, Backend Development, Databases, and Web Design I do it all <br>
-            <br>
-            C++ C# JavaScript HTML CSS SQL Git GitHub Unity Unreal
-            </div>
-        </section>
+        </div>
     </Introduction> 
 </template>
 <script setup>
