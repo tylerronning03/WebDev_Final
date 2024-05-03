@@ -10,7 +10,7 @@
             </div>
             
                 <nav class="flex-1 flex flex-row items-center justify-end gap-6 text-white px-3">
-                    <nuxt-link to="/page1" class="hover:text-emerald-500">My Story</nuxt-link>
+                    <nuxt-link to="/page1" class="hover:text-emerald-500">Our Story</nuxt-link>
                     <nuxt-link to="/page2" class="hover:text-emerald-500">Portfolio</nuxt-link>
                     <nuxt-link to="/page3" class="hover:text-emerald-500">Services</nuxt-link>
                     <nuxt-link to="/page4" class="hover:text-emerald-500">Contact</nuxt-link>
