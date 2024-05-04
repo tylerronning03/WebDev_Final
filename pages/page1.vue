@@ -1,7 +1,7 @@
 <template>
-    <header class="text-center bg-slate-700">
+    <main class="text-center bg-slate-700">
         <Timeline/>
-    </header>
+    </main>
     
     
 </template>
