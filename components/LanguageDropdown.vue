@@ -34,7 +34,7 @@
                         </div>
                     
                     <div class="dropdown dropdown-end">
-                            <div tabindex="0" role="button" class=" m-1 text-white hover:text-emerald-500">untiy</div>
+                            <div tabindex="0" role="button" class=" m-1 text-white hover:text-emerald-500">Untiy</div>
                             <ul tabindex="0" class="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-[100vh]">
                             <img src="public/Unity.png" alt="">
                             </ul>

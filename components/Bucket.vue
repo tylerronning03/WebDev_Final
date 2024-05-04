@@ -5,7 +5,8 @@
         </div>
         <div class=" flex flex-col rounded-xl border border-grey-100 p-4 flex-1 w-[50vh]">
             <div class="font-semibold text-xl md:text-4xl text-center"> {{ title }}</div>
-            <div class="text-xl text-center"> {{ body }}</div>
+            <div class="text-xl text-center"> {{ body }}
+            </div>
         </div>
     </div>
 </template>
@@ -19,6 +20,6 @@
         },
         body: {
             default: ''
-        }
+        },
     })
 </script>

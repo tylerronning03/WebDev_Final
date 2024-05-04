@@ -8,13 +8,13 @@
                 </nuxt-link>
                 
             </div>
-                <div class="dropdown dropdown-end">
+            <div class="dropdown dropdown-end px-4">
                 <div tabindex="0" role="button" class="btn m-1 text-white hover:text-emerald-500">Links</div>
                 <ul tabindex="0" class="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
-                    <li><a><nuxt-link to="/page1" class="hover:text-emerald-500">Our Story</nuxt-link></a></li>
-                    <li><a><nuxt-link to="/page2" class="hover:text-emerald-500">Portfolio</nuxt-link></a></li>
-                    <li><a><nuxt-link to="/page3" class="hover:text-emerald-500">Services</nuxt-link></a></li>
-                    <li><a><nuxt-link to="/page4" class="hover:text-emerald-500">Contact</nuxt-link></a></li>
+                    <li><nuxt-link to="/page1" class="hover:text-emerald-500">Our Story</nuxt-link></li>
+                    <li><nuxt-link to="/page2" class="hover:text-emerald-500">Portfolio</nuxt-link></li>
+                    <li><nuxt-link to="/page3" class="hover:text-emerald-500">Services</nuxt-link></li>
+                    <li><nuxt-link to="/page4" class="hover:text-emerald-500">Contact</nuxt-link></li>
                 </ul>
             </div>
         </main>

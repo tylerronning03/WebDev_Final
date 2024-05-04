@@ -1,5 +1,6 @@
 <template>
     <Carousel/>
+    <Showcase/>
     
     
     

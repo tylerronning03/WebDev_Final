@@ -2,7 +2,7 @@
     <!-- Intoduction, Brief Bio, links to portfolio -->
     <Introduction>
         <section class="flex flex-col bg-cover bg-center h-[40vh] bg-[url('public/Tecky.jpeg')] border border-black justify-center items-center">
-            <div class="comfortaa font-bold py-5 text-lg lg:text-7xl text-center text-emerald-500">
+            <div class="comfortaa font-bold py-5 text-lg md:text-4xl lg:text-7xl text-center text-emerald-500">
             The Future of Development is Here
             </div>
             <LanguageDropdown class="hidden md:block"/>
