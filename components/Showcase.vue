@@ -1,5 +1,5 @@
 <template>
-    <projects class="flex flex-col items-center justify-center py-4 gap-2"> 
+    <projects class="flex flex-col items-center justify-center py-4 gap-2 bg-slate-700"> 
       <div class="flex flex-row w-full h-[30vh] md:h-[80vh] px-3 gap-3">
         <div class="flex flex-col items-center justify-center w-full md:max-w-[40vh]">
           <img src="public/CSharpLogo.svg" alt="" class="max-h-[15vh] md:max-h-[80vh]">
