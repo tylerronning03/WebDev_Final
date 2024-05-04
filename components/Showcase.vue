@@ -18,10 +18,10 @@
         <div class="flex flex-col items-center justify-center w-full md:max-w-[40vh]">
           <div class="flex flex-row items-center justify-center">
             <img src="public/JavaScriptLogo.webp" alt="" class="max-h-[15vh] md:max-h-[30vh]">
-            <img src="public/TSLogo.svg" alt="" class="max-h-[15vh] md:max-h-[50vh] md:hidden">
+            <img src="public/TSLogo.png" alt="" class="max-h-[15vh] md:max-h-[50vh] md:hidden">
           </div>
           <div class="text-l md:text-2xl text-white text-center py-2 max-w-md">Used both Java Script and TypeScript in HTML files and JavaScript projects</div>
-          <img src="public/TSLogo.svg" alt="" class="max-h-[15vh] md:max-h-[30vh] hidden md:block">
+          <img src="public/TSLogo.png" alt="" class="max-h-[15vh] md:max-h-[30vh] hidden md:block">
         </div>
         <img src="public/JavaScript.png" alt="" class="overflow-hidden w-full h-full object-cover object-left border-2 border-black hidden md:block" style="border-radius: 20px">
       </div>
